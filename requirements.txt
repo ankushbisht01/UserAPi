@@ -60,5 +60,6 @@ virtualenvwrapper-win==1.2.6
 Werkzeug==1.0.1
 whitenoise==5.2.0
 wrapt==1.12.1
+you-get==0.4.1456
 youtube-dl==2020.7.28
 zipp==3.1.0
